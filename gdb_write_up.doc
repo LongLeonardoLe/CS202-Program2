@@ -1,0 +1,1 @@
+In this program, as normal, I used gdb to debug when trying to copy linked list to another linked list which is easy to get segmentation fault. Also, I used gdb to check that the new value is added to the beginning of the linked list or not. This is almost everything that I've done with the gdb so far.
